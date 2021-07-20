@@ -1,5 +1,5 @@
 # Agenda Plugin
-
+please-ignore
 [![CircleCI](https://img.shields.io/circleci/project/github/mattermost/mattermost-plugin-agenda/master.svg)](https://circleci.com/gh/mattermost/mattermost-plugin-agenda)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mattermost/mattermost-plugin-agenda)](https://goreportcard.com/report/github.com/mattermost/mattermost-plugin-agenda)
 [![Code Coverage](https://img.shields.io/codecov/c/github/mattermost/mattermost-plugin-agenda/master.svg)](https://codecov.io/gh/mattermost/mattermost-plugin-agenda)
